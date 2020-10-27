@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 13794,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-intune-mobile-asset-import-azure-automation-powershell-runbook/master/Hornbill_Azure_Intune_Asset_Import_Runbook.ps1",
+    "DownloadCount": 538,
+    "Id": "Hornbill-Intune-Mobile-d18cc81d",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 287,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-2-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This is an Azure Automation Powershell Runbook which will retrieve mobile assets from Intune, and import them into your Hornbill instance CMDB.",
+    "Title": "Hornbill Intune Mobile Asset Import - Azure Automation Powershell Runbook",
+    "UpdatedDate": "2019-2-15T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-intune-mobile-asset-import-azure-automation-powershell-runbook",
+    "UserTags": "Microsoft Azure, Powershell, Powershell Script"
+}
