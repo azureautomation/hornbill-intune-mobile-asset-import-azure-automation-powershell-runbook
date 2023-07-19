@@ -9,8 +9,7 @@ This is an Azure Automation Powershell Runbook which will retrieve mobile assets
 **REQUIRED**
 
 
-Requires the HornbillAPI, HornbillHelpers, AzureAD and PSIntuneAuth modules to be installed against your Azure Automation Account. These can
- be installed via the PowershellGallery:
+Requires the HornbillAPI, HornbillHelpers and AzureAD to be installed against your Azure Automation Account. These can be installed via the PowershellGallery:
 
 
 https://www.powershellgallery.com/packages/HornbillAPI/
